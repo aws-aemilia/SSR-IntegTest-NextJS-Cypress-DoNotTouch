@@ -1,10 +1,3 @@
-# NextJS v11
+# NextJS with Cypress
 
-
-| Feature  | Pages |
-| ------------- | ------------- |
-| Static  | /  |
-| ISR  | /isr  |
-| SSR  | /ssr  |
-| Locale Path Routing  | /locales, /en-US/locales and /fr/locales  |
-| API routes  | /api/hello  |
+This app shows how to configure Cypress to work with Next.js. It is based on this repository: https://github.com/vercel/next.js/tree/canary/examples/with-cypress
